@@ -26,8 +26,6 @@ The dataset used in this project is the Telco Customer Churn dataset, which cont
 ## ROC Curve
 The ROC (Receiver Operating Characteristic) curve illustrates the performance of the model in distinguishing between churned and non-churned customers.
 
-![ROC Curve](roc_curve.png)
-
 ## Tools & Libraries Used
 - Python
 - Pandas
